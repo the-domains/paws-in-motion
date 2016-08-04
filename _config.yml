@@ -1,14 +1,26 @@
-layout_spectrum: 0.24474104191176593
-typography_spectrum: 0.8443260926287621
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.05912229930981994
-  lightness: 0.031553597655147314
   saturation: 0.680982603924349
-  rhythmicContrast: 0.8840452725999057
+  brandStrength: 0.3553191
+  lightness: 0.03155359765514731
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FEFDF8'
+    - '#533F38'
+    - '#9C8B9D'
+    - '#7A6563'
+    - '#DFB28A'
+  rhythmicContrast: 0.8840452725999057
+typography_spectrum: 0.6659575
+layout_spectrum: 0
 name: Paws in Motion
