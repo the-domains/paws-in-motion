@@ -1,3 +1,17 @@
+typography_spectrum: 0.6659575
+color:
+  saturation: 0.680982603924349
+  brandStrength: 0.3553191
+  lightness: 0.03155359765514731
+  brandColors:
+    - '#FEFDF8'
+    - '#533F38'
+    - '#9C8B9D'
+    - '#7A6563'
+    - '#DFB28A'
+  rhythmicContrast: 0.8840452725999057
+layout_spectrum: 0
+name: Paws in Motion
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.680982603924349
-  brandStrength: 0.3553191
-  lightness: 0.03155359765514731
-  brandColors:
-    - '#FEFDF8'
-    - '#533F38'
-    - '#9C8B9D'
-    - '#7A6563'
-    - '#DFB28A'
-  rhythmicContrast: 0.8840452725999057
-typography_spectrum: 0.6659575
-layout_spectrum: 0
-name: Paws in Motion
+title: Paws in Motion
